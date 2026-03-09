@@ -1,0 +1,2 @@
+What is the survival probability of a patient with primary brain tumor after 24 months of receiving therapy? Is the survival probability equal across male and female patients? Is the survival probability equal across different treatment methods?
+What factors impact the survival probability of a patient with primary brain tumor? Do patients’ sex, tumor location, gross tumor volume, tumor type, patient healthiness index (Karnofsky index), and tumor treatment method have a significant relationship with survival probability?
